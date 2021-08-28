@@ -7,6 +7,7 @@
 #' @export
 #'
 #' @examples
+#' fun(2, 2)
 fun <- function(a, b) {
   a + b
 }

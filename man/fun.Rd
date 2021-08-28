@@ -17,3 +17,6 @@ numero
 \description{
 funcao para somar dois numeros
 }
+\examples{
+fun(2, 2)
+}
