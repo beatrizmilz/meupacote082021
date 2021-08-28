@@ -4,6 +4,8 @@
 # meupacote
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/beatrizmilz/meupacote082021/workflows/R-CMD-check/badge.svg)](https://github.com/beatrizmilz/meupacote082021/actions)
 <!-- badges: end -->
 
 The goal of meupacote is to …
